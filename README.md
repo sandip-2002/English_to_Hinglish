@@ -53,7 +53,7 @@ jupyter notebook
 
 
 ## Output
-The output translations for the provided example sentences are saved in the [output.txt](https://github.com/sandip-2002/Listed_assignment_3/blob/master/Output.txt) file.
+The output translations for the provided example sentences are saved in the [output.txt](https://github.com/sandip-2002/English_to_Hinglish/blob/main/Output.txt) file.
 
 ## Examples
 Here are some example sentences that you can translate:
