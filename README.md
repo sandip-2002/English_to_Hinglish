@@ -15,8 +15,8 @@ This repository contains a Python code script (Jupyter Notebook) that translates
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/sandip-2002/Listed_assignment_3.git
-cd Listed_assignment_3
+git clone https://github.com/sandip-2002/English_to_Hinglish.git
+cd English_to_Hinglish
 ```
 
 2. Create a virtual environment and install the required packages:
